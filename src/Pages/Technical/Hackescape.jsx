@@ -15,7 +15,7 @@ const Hackscape = () => {
         shadow-[0px_0px_25px_rgba(255,46,255,0.9)] w-full md:w-3/4 lg:w-1/2"
         >
           <h1 className="text-shadow text-2xl md:text-3xl lg:text-4xl text-white font-semibold mb-5 text-center">
-            The Witch’s  Trials🧙🏻‍♀️
+            HackESpace🧙🏻‍♀️
           </h1>
 
           <div className="mb-4">
