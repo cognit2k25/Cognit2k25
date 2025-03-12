@@ -15,7 +15,7 @@ const Hackscape = () => {
         shadow-[0px_0px_25px_rgba(255,46,255,0.9)] w-full md:w-3/4 lg:w-1/2"
         >
           <h1 className="text-shadow text-2xl md:text-3xl lg:text-4xl text-white font-semibold mb-5 text-center">
-            HackESpace🧙🏻‍♀️
+            HackEscape🧙🏻‍♀️
           </h1>
 
           <div className="mb-4">
@@ -27,7 +27,7 @@ const Hackscape = () => {
           </div>
 
           <p className="text-shadow text-white md:text-lg lg:text-xl">
-          Hackscape is an exhilarating cybersecurity-themed race that challenges participants to navigate through five intense levels,
+          HackEscape is an exhilarating cybersecurity-themed race that challenges participants to navigate through five intense levels,
           testing their skills in cryptography, problem-solving, and ethical hacking. 
           The ultimate goal? To reach the Grand Master Level, where only the most skilled minds will successfully bypass digital barriers to claim victory.
           </p>
