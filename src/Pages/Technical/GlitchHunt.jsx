@@ -87,7 +87,7 @@ const GlitchHunt = () => {
               <span className="absolute left-0 top-0.5 list-disc list-inside">
                 •
               </span>
-              5. Immediate disqualification for a tie.
+              5. Immediate disqualification for a Misconduct.
             </li>
             <li className="relative pl-4">
               <span className="absolute left-0 top-0.5 list-disc list-inside">
