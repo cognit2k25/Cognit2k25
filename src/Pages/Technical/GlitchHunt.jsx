@@ -51,7 +51,7 @@ const GlitchHunt = () => {
               <span className="absolute left-0 top-0.5 list-disc list-inside">
                 •
               </span>
-              Top 6 Winner Will Given with A Task In Which It Contain A Syntax Correction And Some Problem Solving Coding And Debugging
+               Winner Will Given with A Task In Which It Contain A Syntax Correction And Some Problem Solving Coding And Debugging
             </li>
           </ul>
 
