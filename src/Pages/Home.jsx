@@ -352,7 +352,7 @@ const Home = () => {
 
               <RouterLink to="/Hackescape">
                 <EventsCard
-                  name={"The Witch’s  Trials🧙🏻‍♀️"}
+                  name={"HackEScapes🧙🏻‍♀️"}
                   img={"/hackspace.jpg"}
                   details={
                     "Hackscape is a cybersecurity race challenging participants to conquer five levels and reach the Grand Master Level."
@@ -392,7 +392,7 @@ const Home = () => {
 
               <RouterLink to={"/FrontEnd"}>
                 <EventsCard
-                  name={"FrontEnd 👨‍💻"}
+                  name={"Code-Canvas 👨‍💻"}
                   img={"/FronEnd.jpeg"}
                   details={
                     "Frontend challenges participants to build responsive, interactive UIs using modern web technologies."
