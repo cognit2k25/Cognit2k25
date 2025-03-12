@@ -352,7 +352,7 @@ const Home = () => {
 
               <RouterLink to="/Hackescape">
                 <EventsCard
-                  name={"HackEScapes🧙🏻‍♀️"}
+                  name={"HackEscape🧙🏻‍♀️"}
                   img={"/hackspace.jpg"}
                   details={
                     "Hackscape is a cybersecurity race challenging participants to conquer five levels and reach the Grand Master Level."
