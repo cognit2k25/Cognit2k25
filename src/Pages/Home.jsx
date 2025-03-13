@@ -273,6 +273,9 @@ const Home = () => {
         <h3 className="text-white text-shadow-dark-violet text-stroke-0-cse-violet font-semibold md:text-xl">
           Guaranteed Participant Certificate
         </h3>
+        <h3 className="text-white text-shadow-dark-violet text-stroke-0-cse-violet font-semibold md:text-xl">
+          Transportation Facilities Provided 
+        </h3>
         <button
           onClick={() => setIsModalOpen(false)}
           className="mt-5 text-white text-shadow px-5 py-1.5 rounded border border-cse-cyan font-semibold hover:bg-cse-violet transition-all hover:transition-all"
