@@ -41,7 +41,11 @@ const Home = () => {
         if (distance < 0) {
           clearInterval(interval);
           setTimeLeft({ days: 0, hours: 0, minutes: 0, seconds: 0 });
-          alert("The event has started!");
+          alert("🎉 Event Completed Successfully! 🎉
+
+Thank you all for your incredible support and participation in Cognit'25! Your enthusiasm and energy made this event a grand success. We truly appreciate your contributions and look forward to seeing you again next time!
+
+Stay inspired, stay curious! 🚀💡");
         } else {
           const days = Math.floor(distance / (1000 * 60 * 60 * 24));
           const hours = Math.floor(
